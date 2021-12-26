@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/i-nasa/holders/main/settings"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/trendyylol/holder/main/settings"))()
 Aiming.TeamCheck(false)
 
 -- // Services
