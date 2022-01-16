@@ -16,6 +16,7 @@ local DaHoodSettings = {
     Prediction = 0.165,
 
     SilentAim = true,
+
     AimLock = false,
     AimLockKeybind = Enum.KeyCode.E,
     BeizerLock = {
