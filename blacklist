@@ -1,0 +1,7 @@
+Blacklist =
+{
+    2415886442, -- F
+    1221762872,  -- T
+}
+
+return Blacklist
